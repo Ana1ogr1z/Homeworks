@@ -1,0 +1,10 @@
+C:\Users\Ярослав\source\repos\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.csproj.AssemblyReference.cache
+C:\Users\Ярослав\source\repos\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.FrmFileFinderMain.resources
+C:\Users\Ярослав\source\repos\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.Properties.Resources.resources
+C:\Users\Ярослав\source\repos\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.csproj.GenerateResource.cache
+C:\Users\Ярослав\source\repos\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\FileFinderExample\FileFinderExample\bin\Debug\FileFinderExample.exe.config
+C:\Users\Ярослав\source\repos\FileFinderExample\FileFinderExample\bin\Debug\FileFinderExample.exe
+C:\Users\Ярослав\source\repos\FileFinderExample\FileFinderExample\bin\Debug\FileFinderExample.pdb
+C:\Users\Ярослав\source\repos\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.exe
+C:\Users\Ярослав\source\repos\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.pdb

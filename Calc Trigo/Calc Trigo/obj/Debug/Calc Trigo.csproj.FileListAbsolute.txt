@@ -1,0 +1,10 @@
+C:\Users\Ярослав\source\repos\Calc Trigo\Calc Trigo\bin\Debug\Calc Trigo.exe.config
+C:\Users\Ярослав\source\repos\Calc Trigo\Calc Trigo\bin\Debug\Calc Trigo.exe
+C:\Users\Ярослав\source\repos\Calc Trigo\Calc Trigo\bin\Debug\Calc Trigo.pdb
+C:\Users\Ярослав\source\repos\Calc Trigo\Calc Trigo\obj\Debug\Calc Trigo.csproj.AssemblyReference.cache
+C:\Users\Ярослав\source\repos\Calc Trigo\Calc Trigo\obj\Debug\Calc_Trigo.Form1.resources
+C:\Users\Ярослав\source\repos\Calc Trigo\Calc Trigo\obj\Debug\Calc_Trigo.Properties.Resources.resources
+C:\Users\Ярослав\source\repos\Calc Trigo\Calc Trigo\obj\Debug\Calc Trigo.csproj.GenerateResource.cache
+C:\Users\Ярослав\source\repos\Calc Trigo\Calc Trigo\obj\Debug\Calc Trigo.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\Calc Trigo\Calc Trigo\obj\Debug\Calc Trigo.exe
+C:\Users\Ярослав\source\repos\Calc Trigo\Calc Trigo\obj\Debug\Calc Trigo.pdb
