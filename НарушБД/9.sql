@@ -1,0 +1,1 @@
+select sum(per_diem) from trip;
